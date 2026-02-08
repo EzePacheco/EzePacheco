@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there — I'm a Backend-Focused Software Developer
 
-<!--
-**EzePacheco/EzePacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build scalable, secure, and high-performance applications with a strong engineering mindset.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**  
+TypeScript / JavaScript · C# · Python
+
+**Backend & APIs**  
+Node.js · FastAPI · RESTful design · Clean architecture
+
+**Frontend**  
+React
+
+**Data**  
+SQL · NoSQL
+
+**Dev & Infrastructure**  
+Docker · Git · Agile workflows
+
+## Engineering Approach
+
+- Scalability, performance, and security from day one  
+- Emphasis on clean, maintainable code  
+- Active contributor in code reviews and team delivery  
+- Comfortable working across the stack when needed  
+
+## Currently
+
+- Building production-ready applications  
+- Acting in cross-functional roles (backend, full-stack, agile facilitation)  
+- Continuously improving my engineering skills  
+
+---
+
+Always learning. Always building.
