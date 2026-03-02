@@ -1,37 +1,38 @@
-# Hi there — I'm a Backend-Focused Software Developer
+### 👋 Hi, I'm Ezequiel Pacheco
 
-I design and build scalable, secure, and high-performance applications with a strong engineering mindset.
+**Backend-Focused Full Stack Engineer** con experiencia en diseño y desarrollo de aplicaciones escalables con **Node.js, TypeScript y Clean Architecture**. Apasionado por construir sistemas mantenibles, bien probados y preparados para producción.
 
-## Tech Stack
+### 🛠️ Tech Stack
 
-**Languages**  
-TypeScript / JavaScript · C# · Python
+**Backend**  
+Node.js · TypeScript · Express · FastAPI · Python · C# (básico)
 
-**Backend & APIs**  
-Node.js · FastAPI · RESTful design · Clean architecture
+**Arquitectura y patrones**  
+Clean Architecture · Capas (Controller–Service–Repository) · Inyección de dependencias · JWT / RBAC
+
+**Bases de datos**  
+PostgreSQL · Prisma ORM · MongoDB · Mongoose · DynamoDB (en aprendizaje)
 
 **Frontend**  
-React
+React 18 · TypeScript · Tailwind CSS · React Query · React Hook Form
 
-**Data**  
-SQL · NoSQL
+**DevOps y herramientas**  
+Docker · Docker Compose · GitHub Actions (CI) · GitFlow · Render · Vercel · Postman
 
-**Dev & Infrastructure**  
-Docker · Git · Agile workflows
+**Cloud (en formación activa)**  
+AWS Lambda · API Gateway · SQS · SNS · Step Functions
 
-## Engineering Approach
+### 🚀 Proyectos destacados
 
-- Scalability, performance, and security from day one  
-- Emphasis on clean, maintainable code  
-- Active contributor in code reviews and team delivery  
-- Comfortable working across the stack when needed  
+- **[Sistema de Gestión de Noticias](https://github.com/Marco21c/backend-noticias)** – API REST con Node.js, TypeScript, MongoDB, Clean Architecture, JWT, RBAC, CI con GitHub Actions y Docker para la base de datos. [Frontend](https://github.com/Marco21c/front-noticias) en React.
+- **[Nail Studio API](https://github.com/EzePacheco/nail-studio-api)** – API para gestión de turnos con Node.js, PostgreSQL, Prisma, Docker, autenticación JWT y sistema de disponibilidad dinámica.
+- **[DATAMARK (MVP)](https://github.com/EzePacheco/S02-26-Equipo-50-Data-Science)** – Plataforma B2B para pequeños negocios (inventario, ventas, dashboards). Backend con Node.js + Prisma, frontend con React.
 
-## Currently
+### 📫 Contacto
 
-- Building production-ready applications  
-- Acting in cross-functional roles (backend, full-stack, agile facilitation)  
-- Continuously improving my engineering skills  
+- LinkedIn: [linkedin.com/in/ezepachecodev](https://linkedin.com/in/ezepachecodev)
+- Email: ezequielpacheco.dev@gmail.com
 
 ---
 
-Always learning. Always building.
+⚡ *Siempre aprendiendo, siempre construyendo.*
