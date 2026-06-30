@@ -1,95 +1,83 @@
-### Hi, I'm Ezequiel Pacheco
+<h1 align="center">Hi, I'm Ezequiel Pacheco 👋</h1>
+<h3 align="center">Full Stack Developer (Backend Oriented)</h3>
 
-**Full Stack Developer (Backend Oriented)** focused on building production-ready web platforms with **Node.js, Express, PostgreSQL, React and Next.js**.
+<p align="center">
+Building production-ready web platforms with <b>Node.js, Express, PostgreSQL, React</b> and <b>Next.js</b>.
+</p>
 
-- Enterprise Profile: [dev.fourcapital.com.ar/ezepacheco](https://dev.fourcapital.com.ar/ezepacheco)
-- LinkedIn: [linkedin.com/in/ezepacheco-dev](https://linkedin.com/in/ezepacheco-dev)
-
-I work mainly on REST APIs, authentication and authorization flows, relational data modeling, CMS platforms, admin dashboards, background jobs and integrations between backend services and frontend applications.
-
----
-
-### Tech Stack
-
-**Backend**  
-Node.js · Express.js · REST APIs · JWT · RBAC · Background Jobs · HMAC-signed flows
-
-**Databases & ORM**  
-PostgreSQL · Sequelize · SQL · Database Migrations · Relational Data Modeling
-
-**Frontend**  
-React · Next.js · Vite · React Router · Admin Dashboards · Shared Component Integration
-
-**Testing & Quality**  
-Vitest · Supertest · node:test · API Testing · Technical Documentation
-
-**Product Domains**  
-Editorial CMS · Multi-tenant Platforms · WebSub · RSS · Sitemaps · ISR/Revalidation · Analytics Modules · Ecommerce Foundations
-
-**Tools**  
-Git · GitHub · Postman · npm scripts · Health/Readiness Checks
+<p align="center">
+  <a href="https://www.linkedin.com/in/ezepacheco-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ezequielpacheco.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-### Featured Work
+### 🧩 Tech Stack
 
-#### El Editor — Editorial CMS Platform
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-Private production product for digital media operations.
-
-- Developed the backend for a multi-tenant editorial CMS using Node.js, Express, PostgreSQL and Sequelize.
-- Worked on authentication, JWT flows, RBAC permissions, tenant isolation, article workflows, media management, taxonomies, banners, metrics and portal configuration.
-- Built and integrated an internal WebSub/RSS notifier service with signed events, persistence, deduplication, retries and worker processing.
-- Contributed to the CMS Panel built with React/Vite, integrating protected routes, content management, metrics, WebSub monitoring and site configuration screens.
-- Worked across backend, CMS and public portal integration, including RSS, sitemaps, ISR/revalidation and technical SEO workflows.
-
-#### Elementos Ecommerce — Backend Foundation
-
-Ecommerce / marketplace backend currently in development.
-
-- Designed and implemented the initial backend foundation using Node.js, Express, PostgreSQL, Sequelize and Umzug.
-- Modeled the first Identity domain with users, identities, credentials, sessions, memberships and invitations.
-- Added health/readiness endpoints, modular bootstrap, database migrations and technical documentation for backend evolution.
-
-#### News Management System
-
-[Backend](https://github.com/Marco21c/backend-noticias) · [Frontend](https://github.com/Marco21c/front-noticias)
-
-- REST API for a news management platform with Node.js, TypeScript, Express, MongoDB, JWT and RBAC.
-- React frontend with protected routes, forms, role-based access and content management flows.
-
-#### DATAMARK MVP
-
-[Repository](https://github.com/EzePacheco/S02-26-Equipo-50-Data-Science)
-
-- B2B SaaS MVP for small business operations, inventory, sales and dashboards.
-- Full stack implementation with Node.js, Express, PostgreSQL, Prisma and React.
-
-#### Nail Studio API
-
-[Repository](https://github.com/EzePacheco/nail-studio-api)
-
-- Appointment management API with Node.js, TypeScript, Express, PostgreSQL, Prisma and JWT authentication.
-- Includes role-based access and dynamic availability logic.
+I work mainly on REST APIs, authentication and authorization flows, relational data modeling, CMS platforms, admin dashboards, background jobs, and integrations between backend services and frontend applications.
 
 ---
 
-### What I care about
+### 🚀 Featured Work
 
-- Clear backend boundaries
-- Maintainable APIs
-- Relational data modeling
-- Authentication and authorization
-- Practical testing
-- Production-oriented decisions
+**El Editor — Editorial CMS Platform** &nbsp;·&nbsp; *Private production product*
+
+Multi-tenant editorial CMS in production for 2 digital media outlets (+120K views / +66K unique users in the last 30 days).
+
+- Backend in Node.js, Express, PostgreSQL and Sequelize: JWT auth, RBAC, tenant isolation, article workflows, media management, taxonomies, banners, metrics, site configuration.
+- Internal WebSub/RSS notifier service with HMAC-signed events, persistence, deduplication, retries and worker processing.
+- CMS Panel built in React/Vite — content management, metrics, WebSub monitoring, site configuration screens.
+- RSS, sitemaps, ISR/revalidation and technical SEO across backend, CMS and public portal.
+
+**Elementos Ecommerce — Backend Foundation** &nbsp;·&nbsp; *In development*
+
+- Backend foundation in Node.js, Express, PostgreSQL, Sequelize and Umzug: modular bootstrap, structured logging, transaction manager, migrations, health/readiness endpoints.
+- First domain modeled: Identity (users, auth identities, credentials, sessions, memberships, invitations).
+
+**[News Management System](https://github.com/Marco21c/backend-noticias)** &nbsp;·&nbsp; [Frontend](https://github.com/Marco21c/front-noticias)
+
+- REST API for a news management platform — Node.js, TypeScript, Express, MongoDB, JWT, RBAC.
+- Led a team of 4 developers, coordinating sprints and code reviews; established standards that cut review-stage defects by 40%.
+- React frontend with protected routes, role-based access and content management flows.
+
+**[DATAMARK MVP](https://github.com/EzePacheco/S02-26-Equipo-50-Data-Science)**
+
+- B2B SaaS MVP for small business sales/inventory operations — Node.js, Express, PostgreSQL, Prisma, React. Delivered in a 6-week cycle.
+
+**[Nail Studio API](https://github.com/EzePacheco/nail-studio-api)**
+
+- Appointment management API with real-time availability, overlap prevention, JWT authentication and role-based access — Node.js, TypeScript, Express, PostgreSQL, Prisma.
+
+---
+
+### 🎯 What I Care About
+
+- Clear backend boundaries and maintainable APIs
+- Relational data modeling done right
+- Authentication and authorization that hold up in production
+- Practical, not performative, testing
 - Simple architecture that solves real problems
 
 ---
 
-### Contact
+### 📫 Contact
 
-### Contact
-
-- Enterprise Profile: [dev.fourcapital.com.ar/ezepacheco](https://dev.fourcapital.com.ar/ezepacheco)
-- LinkedIn: [linkedin.com/in/ezepacheco-dev](https://linkedin.com/in/ezepacheco-dev)
-- Email: ezequielpacheco.dev@gmail.com
+- LinkedIn: [linkedin.com/in/ezepacheco-dev](https://www.linkedin.com/in/ezepacheco-dev)
+- Email: [ezequielpacheco.dev@gmail.com](mailto:ezequielpacheco.dev@gmail.com)
