@@ -81,3 +81,4 @@ Multi-tenant editorial CMS in production for 2 digital media outlets (+120K view
 
 - LinkedIn: [linkedin.com/in/ezepacheco-dev](https://www.linkedin.com/in/ezepacheco-dev)
 - Email: [ezequielpacheco.dev@gmail.com](mailto:ezequielpacheco.dev@gmail.com)
+- GitLab Enterprise: [GitLab](https://dev.fourcapital.com.ar/ezepacheco)
