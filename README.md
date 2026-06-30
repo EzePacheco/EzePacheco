@@ -2,9 +2,10 @@
 
 **Full Stack Developer (Backend Oriented)** focused on building production-ready web platforms with **Node.js, Express, PostgreSQL, React and Next.js**.
 
-I work mainly on REST APIs, authentication and authorization flows, relational data modeling, CMS platforms, admin dashboards, background jobs and integrations between backend services and frontend applications.
+- Enterprise Profile: [dev.fourcapital.com.ar/ezepacheco](https://dev.fourcapital.com.ar/ezepacheco)
+- LinkedIn: [linkedin.com/in/ezepacheco-dev](https://linkedin.com/in/ezepacheco-dev)
 
-My strongest experience is in backend-heavy products: editorial CMS platforms, multi-tenant systems, RBAC, content workflows, analytics modules, RSS/sitemaps/WebSub distribution and ecommerce backend foundations.
+I work mainly on REST APIs, authentication and authorization flows, relational data modeling, CMS platforms, admin dashboards, background jobs and integrations between backend services and frontend applications.
 
 ---
 
@@ -87,5 +88,8 @@ Ecommerce / marketplace backend currently in development.
 
 ### Contact
 
+### Contact
+
+- Enterprise Profile: [dev.fourcapital.com.ar/ezepacheco](https://dev.fourcapital.com.ar/ezepacheco)
 - LinkedIn: [linkedin.com/in/ezepacheco-dev](https://linkedin.com/in/ezepacheco-dev)
 - Email: ezequielpacheco.dev@gmail.com
