@@ -1,87 +1,64 @@
-<h1 align="center">Hi, I'm Ezequiel Pacheco 👋</h1>
-<h3 align="center">Full Stack Developer (Backend Oriented)</h3>
+<h1 align="center">Ezequiel Pacheco</h1>
 
 <p align="center">
-Building production-ready web platforms with <b>Node.js, Express, PostgreSQL, React</b> and <b>Next.js</b>.
+  <strong>Full Stack Developer · Backend-Oriented</strong><br>
+  I build and operate web products end to end: backend, data, APIs, interfaces, testing and production workflows.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ezepacheco-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ezequielpacheco.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://portfolio-eze-pacheco.vercel.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/ezepacheco-dev">LinkedIn</a> ·
+  <a href="mailto:ezequielpacheco.dev@gmail.com">Email</a>
 </p>
 
----
+## What I work on
 
-### 🧩 Tech Stack
+- Modular APIs and backend services with clear domain boundaries
+- PostgreSQL data modeling, transactions, migrations and performance
+- Authentication, RBAC, multi-tenancy and secure integrations
+- React and Next.js interfaces connected to real product workflows
+- Background jobs, real-time systems, testing, observability and delivery
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20S3-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+## Selected systems
 
-I work mainly on REST APIs, authentication and authorization flows, relational data modeling, CMS platforms, admin dashboards, background jobs, and integrations between backend services and frontend applications.
+### El Editor CMS · Production
 
----
+Multi-site editorial platform used to manage content, users, media, analytics and publishing for digital news portals.
 
-### 🚀 Featured Work
+- Built capabilities across the Node.js/PostgreSQL backend, React CMS and Next.js public portals.
+- Implemented JWT authentication, RBAC, tenant isolation, editorial workflows, media management and site configuration.
+- Worked on AWS S3 storage, RSS/WebSub delivery, background processing, SEO and cache revalidation.
 
-Both products below are built as part of my full-time role at **DELSUD**, a digital media group — end-to-end CMS and public-facing portals for high-traffic news outlets (~450K monthly visits).
+### Elementos · Private product
 
-**El Editor — Editorial CMS Platform** &nbsp;·&nbsp; *In production*
+Marketplace for construction materials with buyer, merchant and internal operations workflows.
 
-Multi-tenant editorial CMS serving the group's digital media outlets.
+- Designed and implemented a modular Node.js, Express, PostgreSQL and Sequelize backend.
+- Worked across identity, security, catalog, merchants, offers, media, discovery, inventory and reservations.
+- Maintained OpenAPI contracts and verified critical routes, responses and business scenarios.
 
-- Backend in Node.js, Express, PostgreSQL and Sequelize: JWT auth, RBAC, tenant isolation, article workflows, media management, taxonomies, banners, metrics, site configuration.
-- Internal WebSub/RSS notifier service with HMAC-signed events, persistence, deduplication, retries and worker processing.
-- CMS Panel built in React/Vite — content management, metrics, WebSub monitoring, site configuration screens.
-- Media storage on AWS S3; RSS, sitemaps, ISR/revalidation and performance work across backend, CMS and public portal.
+### [MineCall](https://minecall-859734929961.southamerica-east1.run.app/) · Live demo
 
-**Elementos Ecommerce — Backend Foundation** &nbsp;·&nbsp; *In development*
+Voxel virtual office with presence, chat and proximity-based audio/video.
 
-- Backend foundation in Node.js, Express, PostgreSQL, Sequelize and Umzug: modular bootstrap, structured logging, transaction manager, migrations, health/readiness endpoints.
-- First domain modeled: Identity (users, auth identities, credentials, sessions, memberships, invitations).
+- Built a large part of the full-stack platform: Go API, PostgreSQL data model, WebSocket real-time flows, LiveKit media, billing and administration.
+- Separated durable HTTP operations from ephemeral presence and movement, using Redis and an outbox for coordination.
 
-**[News Management System](https://github.com/Marco21c/backend-noticias)** &nbsp;·&nbsp; [Frontend](https://github.com/Marco21c/front-noticias)
+### [Chichitos Ecommerce](https://github.com/EzePacheco/chichitos-ecommerce) · [Live store](https://chichitos-web.vercel.app/)
 
-- REST API for a news management platform — Node.js, TypeScript, Express, MongoDB, JWT, RBAC.
-- Led a team of 4 developers, coordinating sprints and code reviews; established standards that cut review-stage defects by 40%.
-- React frontend with protected routes, role-based access and content management flows.
+End-to-end ecommerce for a custom children’s clothing brand.
 
-**[DATAMARK MVP](https://github.com/EzePacheco/S02-26-Equipo-50-Data-Science)**
+- Built the storefront, administration, catalog, stock reservations, checkout, payments and deployment.
+- Revalidates prices, stock and shipping on the server and confirms payments through signed, idempotent webhooks.
 
-- B2B SaaS MVP for small business sales/inventory operations — Node.js, Express, PostgreSQL, Prisma, React. Delivered in a 6-week cycle.
+## Core toolkit
 
-**[Nail Studio API](https://github.com/EzePacheco/nail-studio-api)**
+**Backend:** Node.js, TypeScript, Go, Express, NestJS, PostgreSQL, Redis<br>
+**Frontend:** React, Next.js, Astro, Three.js<br>
+**Delivery:** REST, WebSocket, OpenAPI, E2E testing, Docker, CI, AWS S3
 
-- Appointment management API with real-time availability, overlap prevention, JWT authentication and role-based access — Node.js, TypeScript, Express, PostgreSQL, Prisma.
+## Currently
 
----
+I’m a Full Stack Developer at **DELSUD**, working primarily on backend, data and integrations while contributing across the complete product surface.
 
-### 🎯 What I Care About
-
-- Clear backend boundaries and maintainable APIs
-- Relational data modeling done right
-- Authentication and authorization that hold up in production
-- Practical, not performative, testing
-- Simple architecture that solves real problems
-
----
-
-### 📫 Contact
-
-- LinkedIn: [linkedin.com/in/ezepacheco-dev](https://www.linkedin.com/in/ezepacheco-dev)
-- Email: [ezequielpacheco.dev@gmail.com](mailto:ezequielpacheco.dev@gmail.com)
+Based in Buenos Aires, Argentina. Open to backend-oriented full-stack opportunities.
