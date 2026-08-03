@@ -6,9 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-eze-pacheco.vercel.app">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/ezepacheco-dev">LinkedIn</a> ·
-  <a href="mailto:ezequielpacheco.dev@gmail.com">Email</a>
+  <a href="https://portfolio-eze-pacheco.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Ezequiel Pacheco's portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/ezepacheco-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Visit Ezequiel Pacheco on LinkedIn">
+  </a>
+  <a href="mailto:ezequielpacheco.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ezequiel Pacheco">
+  </a>
 </p>
 
 ## What I work on
@@ -53,9 +59,21 @@ End-to-end ecommerce for a custom children’s clothing brand.
 
 ## Core toolkit
 
-**Backend:** Node.js, TypeScript, Go, Express, NestJS, PostgreSQL, Redis<br>
-**Frontend:** React, Next.js, Astro, Three.js<br>
-**Delivery:** REST, WebSocket, OpenAPI, E2E testing, Docker, CI, AWS S3
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square" alt="AWS S3">
+</p>
+
+**Backend:** Express, NestJS, REST, WebSocket, OpenAPI<br>
+**Frontend:** Next.js, React, Astro, Three.js<br>
+**Delivery:** E2E testing, Docker, CI, observability, AWS S3
 
 ## Currently
 
